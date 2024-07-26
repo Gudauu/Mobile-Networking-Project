@@ -1,3 +1,14 @@
+# Project Status
+
+**!!! THIS PROJECT IS NO LONGER UNDER MAINTENANCE !!!**
+
+As of June 2024 (which is also the end of our AWS EC2 1 year free period), this project is no longer under maintenance and the APK download link is no longer available.  
+Existing apps will no longer be able to load the social wall data.
+
+Hope we meet again in the future :)
+
+---
+
 # WeWallHere
 ![Alt Text](https://github.com/Gudauu/WeWallHere/blob/develop/logo_github.png?raw=true)
 
@@ -40,5 +51,3 @@ If you've already installed the app and want to check for available updates, go 
 ## 6. DEMO
 We created a CANVA slide [here](https://www.canva.com/design/DAFki1f8MRk/o91gEmSHyx54K05FOiLGIQ/view?utm_content=DAFki1f8MRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) when we made the final presentation. The text is in Mandarin, but you can simply check some screenshots and screen recordings.
 
-## 7. STATUS
-Up and running. Suggestions and comments are welcome!
