@@ -1,3 +1,8 @@
+#####
+As of June 2024 (which is also the end of our AWS EC2 1 year free period), this project is no longer under maintenance and the APK download link is no longer available.
+Existing apps will no longer be able to load the social wall data.
+Hope we meet again in the future : )
+
 # WeWallHere
 ![Alt Text](https://github.com/Gudauu/WeWallHere/blob/develop/logo_github.png?raw=true)
 
